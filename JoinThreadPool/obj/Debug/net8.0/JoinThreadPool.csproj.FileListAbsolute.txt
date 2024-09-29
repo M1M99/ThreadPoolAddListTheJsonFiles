@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\JoinThreadPool\JoinThreadPool\bin\Debug\net8.0\JoinThreadPool.exe
+C:\Users\ASUS\source\repos\JoinThreadPool\JoinThreadPool\bin\Debug\net8.0\JoinThreadPool.deps.json
+C:\Users\ASUS\source\repos\JoinThreadPool\JoinThreadPool\bin\Debug\net8.0\JoinThreadPool.runtimeconfig.json
+C:\Users\ASUS\source\repos\JoinThreadPool\JoinThreadPool\bin\Debug\net8.0\JoinThreadPool.dll
+C:\Users\ASUS\source\repos\JoinThreadPool\JoinThreadPool\bin\Debug\net8.0\JoinThreadPool.pdb
+C:\Users\ASUS\source\repos\JoinThreadPool\JoinThreadPool\bin\Debug\net8.0\Bogus.dll
+C:\Users\ASUS\source\repos\JoinThreadPool\JoinThreadPool\obj\Debug\net8.0\JoinThreadPool.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\JoinThreadPool\JoinThreadPool\obj\Debug\net8.0\JoinThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\JoinThreadPool\JoinThreadPool\obj\Debug\net8.0\JoinThreadPool.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\JoinThreadPool\JoinThreadPool\obj\Debug\net8.0\JoinThreadPool.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\JoinThreadPool\JoinThreadPool\obj\Debug\net8.0\JoinThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\JoinThreadPool\JoinThreadPool\obj\Debug\net8.0\JoinThre.91488B7D.Up2Date
+C:\Users\ASUS\source\repos\JoinThreadPool\JoinThreadPool\obj\Debug\net8.0\JoinThreadPool.dll
+C:\Users\ASUS\source\repos\JoinThreadPool\JoinThreadPool\obj\Debug\net8.0\refint\JoinThreadPool.dll
+C:\Users\ASUS\source\repos\JoinThreadPool\JoinThreadPool\obj\Debug\net8.0\JoinThreadPool.pdb
+C:\Users\ASUS\source\repos\JoinThreadPool\JoinThreadPool\obj\Debug\net8.0\JoinThreadPool.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\JoinThreadPool\JoinThreadPool\obj\Debug\net8.0\ref\JoinThreadPool.dll
